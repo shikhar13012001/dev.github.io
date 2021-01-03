@@ -1,0 +1,105 @@
+
+.i
+{
+	width:50px;
+	height:50px;
+	margin-left:100px; 
+    margin-top: 10px;
+}
+.i2
+{
+	width:80px;
+	height:80px;
+	margin-left:10px; 
+    margin-top: 10px;
+}
+h1
+{
+	font-size: 40px;
+	font-family:'Open Sans',sans-serif;
+	font-weight: 400;
+}
+
+h2
+{
+	font-size: 80px;
+	font-family:monospace;
+	font-weight: 1000;
+}
+
+hr
+{
+
+    border-width:5px;
+    border-color:black solid;
+}
+p
+{
+	font-family:'Open Sans' ;
+	text-align: left;
+	font-size:16px;
+	font-weight: bold;
+}
+.btn-xl
+{
+	
+	
+	font-weight:bold;
+	
+}
+
+
+
+.btn-xl:hover
+{
+
+		background-color: #005FFA;
+	
+}
+.log
+{
+	width: 80px;
+	height: 30px;
+	background-color:white;
+    font-family: 'Open sans';
+    border-color:black;
+    border-radius:200px;
+    border-width:3px;
+     float:right;
+     margin-right: 100px;
+  transition: transform 1.2s;
+ 
+
+}
+.log:hover
+{
+	background-color:black;
+	color:white;
+	transform: scale(1.1) translate(12px,12px);
+}
+.img1
+{
+   width:300px;
+   height:300px;
+   margin-top:80px;
+   margin-right: 40px;
+   position: relative;
+}
+h3
+{   text-shadow: 1px 1px 1px #000;
+	margin-top: 5rem;
+}
+.btn-info
+{    margin-top:40px;
+	 margin-left: 100px;
+}
+.txt
+{
+	font-family: monospace;
+	font-style: cursive;
+	font-weight: bold;
+}
+.btn-dark
+{    margin-top:5px;
+	 margin-left: 100px;
+}
